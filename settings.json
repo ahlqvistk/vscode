@@ -1,0 +1,13 @@
+{
+    "keyboard.dispatch": "keyCode",
+    "workbench.colorTheme": "Visual Studio Light",
+    "workbench.activityBar.visible": false,
+    "editor.lineNumbers": "relative",
+    "editor.minimap.enabled": false,
+    "window.menuBarVisibility": "toggle",
+    "extensions.ignoreRecommendations": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "window.zoomLevel": 0,
+    "editor.tabSize": 2,
+    "javascript.updateImportsOnFileMove.enabled": "never",
+}
